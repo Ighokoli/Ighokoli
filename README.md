@@ -1,10 +1,10 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
-**Ighokoli/Ighokoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **Ighotemu Okoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
++ I am a data analyst with experience in using various tools and technologies to collect, organize, and analyze data to make inform business decisions
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
